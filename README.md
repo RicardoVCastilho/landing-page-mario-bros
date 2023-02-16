@@ -1,4 +1,4 @@
- <img src= "./src/imagens/titulo.png" alt= "Imagem com o título: Super Mario Bros" width= "970" height= "180">
+ <img src= "./src/imagens/titulo.png" alt= "Imagem com o título: Super Mario Bros" width= "856" height= "180">
 
 #  Landing Page com o trailer do filme: Super Mario Bros
  Como meu primeiro projeto, esta Landing page com o tema do Super Mario Bros, tem o objetivo de exibir o trailer 2 do filme. Composta também por um botão Home e outro Detalhes. 🍄
