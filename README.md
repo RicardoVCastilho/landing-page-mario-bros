@@ -11,23 +11,24 @@
 ## Como utilizar
 1- Início Landing-page
 
-<img src="./src/imagens/imagens-readme/readme-imagem-inicio-landing-page.jpeg">
+<img src="./src/imagens/imagens-readme/readme-imagem-inicio-landing-page.jpeg" alt= "Imagem que ilustra a landing page por completo"!>
 
 2- Opções de Cabeçalho
 
-<img src="./src/imagens/imagens-readme/imagem-readme-home-detalhes.jpeg">
+<img src="./src/imagens/imagens-readme/imagem-readme-home-detalhes.jpeg" alt= "Imagem que demonstra em detalhes o Home e o Deatlhes">
 
 3- Conteúdo e botão do trailer
 
-<img src="./src/imagens/imagens-readme/readme-conteudo-botao.jpeg">
+<img src="./src/imagens/imagens-readme/readme-conteudo-botao.jpeg" alt= "Imagem que ilustra o conteúdo da landing page e o botão de veja o trailer">
 
 4- Botão do "Veja o trailer"
 
-<img src="./src/imagens/imagens-readme/readme-botao-trailer.jpeg">
+<img src="./src/imagens/imagens-readme/readme-botao-trailer.jpeg" alt ="imagem do botão do veja o trailer">
 
 5- Ver o trailer ou fechar o player
 
-<img src="./src/imagens/imagens-readme/readme-trailer-fechar.jpeg">
+<img src="./src/imagens/imagens-readme/readme-trailer-fechar.jpeg" alt= "Imagem com a demosntração de como o trailer é exibido, assim como o botão de fechar">
+
 
 ## Seriços Usados
 - GitHub
